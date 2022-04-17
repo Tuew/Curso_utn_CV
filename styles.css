@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+header{
+    margin-left: 15px;
+    
+}
+
+img{
+    width: 200px;
+    height: 150px;
+    margin-right: 15px;
+}
+
+section{
+    margin-left: 15px;
+}
+
+li{
+    color: #e54e;
+}
+
+footer{
+    height: 75px;
+    background: #000;
+    color: #fff;
+}
+
+footer h5{
+    text-align: center;
+    font-size: 15px;
+    padding-top: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: #e54;
+}
